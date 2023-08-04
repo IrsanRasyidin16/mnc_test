@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS tx_installment_credit;
